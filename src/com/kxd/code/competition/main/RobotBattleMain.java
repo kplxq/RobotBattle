@@ -21,7 +21,6 @@ import com.kxd.code.competition.map.Maze;
 import com.kxd.code.competition.robot.AbstractRobot;
 import com.kxd.code.competition.robot.entity.AbstractRobotBaseInfo;
 import com.kxd.code.competition.robot.fight.*;
-import com.kxd.code.competition.robot.fight.sign47.Sign47FightRobot;
 import com.kxd.code.competition.robot.maze.DemoMazeRobot;
 
 import javax.swing.*;
